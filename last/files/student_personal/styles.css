@@ -913,3 +913,39 @@
   color:#333333;
   text-align:center;
 }
+#u206_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:505px;
+  height:80px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:36px;
+}
+#u206 {
+  border-width:0px;
+  position:absolute;
+  left:291px;
+  top:486px;
+  width:505px;
+  height:80px;
+  font-size:36px;
+}
+#u206_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:19px;
+  width:501px;
+  word-wrap:break-word;
+}
